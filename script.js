@@ -1,5 +1,4 @@
 //your JS code here. If required.
-//your JS code here. If required.
 const input = document.getElementById('ip');
 const output = document.getElementById('output');
 const btn = document.getElementById('btn');
